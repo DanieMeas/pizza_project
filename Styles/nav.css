@@ -87,7 +87,7 @@
 }
 
 .links-wrapper > .nav-link a:hover {
-  color: #cea135;
+  color: red;
   letter-spacing: 2px;
 }
 
